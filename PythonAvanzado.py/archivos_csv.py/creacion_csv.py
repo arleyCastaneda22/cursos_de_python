@@ -4,10 +4,10 @@ columnas =["Alejandra", 25, "Maravilla"]
 
 
 datos=[
-    ["Alejandra", 25, "Maravilla"],
-    ["Alejandra", 25, "Maravilla"],
-    ["Alejandra", 25, "Maravilla"],
-    ["Alejandra", 25, "Maravilla"]
+    ["Alfonso", 25, "Maravilla"],
+    ["Laura", 25, "Maravilla"],
+    ["Jose", 25, "Maravilla"],
+    ["Enrique", 25, "Maravilla"]
 ]
 
 x=0
