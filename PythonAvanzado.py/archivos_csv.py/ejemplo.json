@@ -1,0 +1,19 @@
+{
+    "LlaveStrings": "Texto",
+    "OtroString" : "Texto",
+    "Entero" : 1,
+    "Decimal" : 1.2,
+    "Boolean": true,
+    "Boolean2": false,
+    "Array" :[1,2,3],
+    "Objeto": [
+        {
+            "persona": "Jhon"
+        },
+        {
+            "persona": "Alejo"
+        }
+    ]
+
+    
+}
